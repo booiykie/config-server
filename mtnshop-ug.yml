@@ -1,0 +1,4 @@
+product: {"product_id":"product","product_has_category":"category","product_name":"name","product_description":"description","product_icon":"icon","created":"created_at","modified":"modified_at","display_categories":"display","default_category_id":"category_id"}      
+catalog: {"product_category_name":"name","product_category_id":"id","product_category_description":"description","product_id":"product_id","filter_tabs":"filter"}
+meta: {"tier":3,"country":"swaziland","slug":"eswatini","database_name":"mymtnshop-ug"}
+
